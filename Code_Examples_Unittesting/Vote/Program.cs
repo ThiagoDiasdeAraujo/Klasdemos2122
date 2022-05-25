@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Vote
 {
@@ -10,6 +6,12 @@ namespace Vote
     {
         static void Main(string[] args)
         {
+            Person person = new Person();
+            person.Age = 32;
+
+            Console.WriteLine($"Mag deze persoon stemmen? {person.CanVote}");
+
+            Console.ReadKey();
         }
     }
 }
