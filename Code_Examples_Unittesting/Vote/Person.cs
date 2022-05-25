@@ -10,5 +10,7 @@ namespace Vote
     {
         public int Age { get; set; }
         public bool CanVote { get => Age >= 18;}
+
+      
     }
 } 
