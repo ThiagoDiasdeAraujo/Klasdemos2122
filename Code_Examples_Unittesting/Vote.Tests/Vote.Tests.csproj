@@ -6,12 +6,20 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+<<<<<<< HEAD
     <ProjectGuid>{16E45F55-C337-4AD6-9F6B-8E1476BF6CD0}</ProjectGuid>
+=======
+    <ProjectGuid>{548FA9B2-ACE5-4422-A081-970C573089B7}</ProjectGuid>
+>>>>>>> 9da578ea3a78511a17cb9ac3ace8a91ad1269637
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Vote.Tests</RootNamespace>
     <AssemblyName>Vote.Tests</AssemblyName>
+<<<<<<< HEAD
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+=======
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+>>>>>>> 9da578ea3a78511a17cb9ac3ace8a91ad1269637
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
     <NuGetPackageImportStamp>
@@ -48,8 +56,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="VoteTests.cs" />
+=======
+    <Compile Include="PersonTests.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+>>>>>>> 9da578ea3a78511a17cb9ac3ace8a91ad1269637
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

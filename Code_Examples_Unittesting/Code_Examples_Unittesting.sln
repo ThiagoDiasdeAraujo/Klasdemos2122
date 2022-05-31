@@ -13,7 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.Tests", "Calcula
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebShop.Tests", "WebShop.Tests\WebShop.Tests.csproj", "{80F58F5C-1D8F-485F-8EEB-723DDE8F5D5A}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vote.Tests", "Vote.Tests\Vote.Tests.csproj", "{16E45F55-C337-4AD6-9F6B-8E1476BF6CD0}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vote.Tests", "Vote.Tests\Vote.Tests.csproj", "{548FA9B2-ACE5-4422-A081-970C573089B7}"
+>>>>>>> 9da578ea3a78511a17cb9ac3ace8a91ad1269637
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +45,17 @@ Global
 		{80F58F5C-1D8F-485F-8EEB-723DDE8F5D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80F58F5C-1D8F-485F-8EEB-723DDE8F5D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80F58F5C-1D8F-485F-8EEB-723DDE8F5D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{16E45F55-C337-4AD6-9F6B-8E1476BF6CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{16E45F55-C337-4AD6-9F6B-8E1476BF6CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16E45F55-C337-4AD6-9F6B-8E1476BF6CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16E45F55-C337-4AD6-9F6B-8E1476BF6CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{548FA9B2-ACE5-4422-A081-970C573089B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548FA9B2-ACE5-4422-A081-970C573089B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548FA9B2-ACE5-4422-A081-970C573089B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548FA9B2-ACE5-4422-A081-970C573089B7}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 9da578ea3a78511a17cb9ac3ace8a91ad1269637
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
